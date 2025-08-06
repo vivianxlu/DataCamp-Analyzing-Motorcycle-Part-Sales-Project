@@ -1,8 +1,8 @@
 # DataCamp-Analyzing-Motorcycle-Part-Sales-Project
 
-# 🏍️ Motorcycle Parts Sales Analysis – SQL DataLab Project
+# Motorcycle Parts Sales Analysis – SQL DataLab Project
 
-## 📖 Project Summary
+## Project Summary
 
 This project is a guided SQL data analysis challenge set in a fictional company that sells motorcycle parts. The goal was to leverage SQL for analyzing sales data and supporting various departments—like Finance and Marketing—in making informed, data-driven decisions.
 
@@ -10,7 +10,7 @@ The analysis was performed in a Jupyter Notebook using PostgreSQL-style SQL quer
 
 ---
 
-## ✅ What I Did
+## What I Did
 
 Over the course of this project, I:
 
@@ -26,7 +26,7 @@ Over the course of this project, I:
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 This project helped me deepen my knowledge of:
 
@@ -38,7 +38,7 @@ This project helped me deepen my knowledge of:
 
 ---
 
-## 📌 Tools & Technologies
+## Tools & Technologies
 
 - **Jupyter Notebook**
 - **SQL** (PostgreSQL-style syntax)
@@ -46,7 +46,7 @@ This project helped me deepen my knowledge of:
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The analysis was performed on a `sales` table with the following key columns:
 
@@ -61,6 +61,6 @@ The analysis was performed on a `sales` table with the following key columns:
 
 ---
 
-## 🏁 Final Notes
+## Final Notes
 
 This project provided hands-on experience in using SQL not only to extract data but to **uncover insights, support decisions, and tell compelling business stories**. It served as a strong practical exercise in combining technical querying skills with analytical thinking.
